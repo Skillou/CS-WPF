@@ -1,0 +1,77 @@
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.exe.config
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.exe
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.pdb
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\View\JoueurView.g.cs
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\View\MainView.g.cs
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\App.g.cs
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT_MarkupCompile.cache
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT_MarkupCompile.lref
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\View\JoueurView.baml
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\View\MainView.baml
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.g.resources
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.Properties.Resources.resources
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.GenerateResource.cache
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.CoreCompileInputs.cache
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.exe
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.pdb
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.AssemblyReference.cache
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\bin\Debug\MaterialDesignColors.dll
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\bin\Debug\MaterialDesignColors.pdb
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\App.baml
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.CopyComplete
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.exe.config
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.exe
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.pdb
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignColors.dll
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignColors.pdb
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.AssemblyReference.cache
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\JoueurView.g.cs
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\MainView.g.cs
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\App.g.cs
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT_MarkupCompile.cache
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT_MarkupCompile.lref
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\App.baml
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\JoueurView.baml
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\MainView.baml
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.g.resources
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.Properties.Resources.resources
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.GenerateResource.cache
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.CoreCompileInputs.cache
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.CopyComplete
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.exe
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.pdb
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\ArmurerieView.g.cs
+C:\Users\RayaneChekatt\Desktop\[COURS]\[POO]\TP\[TP 4]\TP4 DESIGN\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\ArmurerieView.baml
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.exe.config
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.exe
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\TP4_CHEKATT.pdb
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignColors.dll
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.AssemblyReference.cache
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\ArmurerieView.g.cs
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\JoueurView.g.cs
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\MainView.g.cs
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\App.g.cs
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT_MarkupCompile.cache
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT_MarkupCompile.lref
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\App.baml
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\ArmurerieView.baml
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\JoueurView.baml
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\View\MainView.baml
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.g.resources
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.Properties.Resources.resources
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.GenerateResource.cache
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.CoreCompileInputs.cache
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.csproj.CopyComplete
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.exe
+C:\Users\Skillnerz\Desktop\TP4_CHEKATT Avec Material design\TP4_CHEKATT\obj\Debug\TP4_CHEKATT.pdb

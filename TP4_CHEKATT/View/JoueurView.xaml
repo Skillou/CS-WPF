@@ -1,0 +1,27 @@
+﻿<Window x:Name="wJoueur" x:Class="TP4_CHEKATT.View.JoueurView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TP4_CHEKATT.View"
+        mc:Ignorable="d"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+         TextElement.FontWeight="Regular"
+         TextElement.FontSize="13"
+         TextOptions.TextFormattingMode="Ideal"
+         TextOptions.TextRenderingMode="Auto"
+         Background="{DynamicResource MaterialDesignPaper}"
+         FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="JoueurView" Height="309.723" Width="476.611">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtNom" HorizontalAlignment="Left" Height="30" Margin="128,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216"/>
+        <TextBox x:Name="txtPrenom" HorizontalAlignment="Left" Height="30" Margin="128,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216"/>
+        <TextBox x:Name="txtPseudo" HorizontalAlignment="Left" Height="30" Margin="128,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216"/>
+        <Button x:Name="btnEnrengister" Content="Enrengistrer" HorizontalAlignment="Left" Margin="160,236,0,0" VerticalAlignment="Top" Width="149" Background="#FF19B43C" BorderBrush="#FF19B43C" Click="btnEnrengister_Click"/>
+        <Label Content="Ajouter joueur" HorizontalAlignment="Left" Margin="170,17,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+    </Grid>
+</Window>

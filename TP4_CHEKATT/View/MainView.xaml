@@ -1,0 +1,58 @@
+﻿<Window x:Name="wMain" x:Class="TP4_CHEKATT.View.HelloWorldView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TP4_CHEKATT.View"
+        mc:Ignorable="d"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+         TextElement.FontWeight="Regular"
+         TextElement.FontSize="13"
+         TextOptions.TextFormattingMode="Ideal"
+         TextOptions.TextRenderingMode="Auto"
+         Background="#FF303030"
+         FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="HelloWorldView" Height="528.561" Width="971.498">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="261*"/>
+            <ColumnDefinition Width="710*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--LISTBOX-->
+        <ListBox x:Name="lbxJoueurs" HorizontalAlignment="Left" Height="283" Margin="40,120,0,0" VerticalAlignment="Top" Width="214" IsSynchronizedWithCurrentItem="False" SelectionChanged="lbxJoueurs_SelectionChanged" BorderThickness="2" BorderBrush="#26FFFFFF"/>
+
+        <!--BUTTON-->
+        <Button x:Name="btnShopping" Content="Shopping" HorizontalAlignment="Left" Margin="168,23,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnApparence" Content="Apparence" HorizontalAlignment="Left" Margin="30,23,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click_1"/>
+        <Button x:Name="btnAjouterJoueur" Content="Ajouter un joueur" HorizontalAlignment="Left" Margin="74,412,0,0" VerticalAlignment="Top" Width="148" Click="btnAjouterJoueur_Click" Background="#FF46A22B" BorderBrush="#FF46A22B" Height="25" Cursor="Hand"/>
+        <Button x:Name="btnSupprimerJoueur" Content="Supprimer un joueur" HorizontalAlignment="Left" Margin="62,444,0,0" VerticalAlignment="Top" Width="172" Click="btnSupprimerJoueur_Click" BorderBrush="#FFC12727" Background="#FFC12727" Height="26"/>
+        <Button x:Name="btnSupprimerArme" Content="✖" HorizontalAlignment="Left" Margin="389,423,0,0" VerticalAlignment="Top" Width="51" BorderBrush="#FFC12727" Background="#FFC12727" Height="32" Click="btnSupprimerArme_Click" Grid.Column="1"/>
+        <Button x:Name="btnAjouterArme" Content="➕" HorizontalAlignment="Left" Margin="309,423,0,0" VerticalAlignment="Top" Width="50" Background="#FF46A22B" BorderBrush="#FF46A22B" Height="32" Click="btnAjouterArme_Click" Grid.Column="1"/>
+
+
+        <!--DataGrid-->
+        <DataGrid x:Name="dgArmes" IsReadOnly="True" HorizontalAlignment="Left" Height="156" Margin="70,247,0,0" VerticalAlignment="Top" Width="604" BorderThickness="2" BorderBrush="#26FFFFFF" Grid.Column="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nom" Binding="{Binding Nom}"/>
+                <DataGridTextColumn Header="Dégâts min" Binding="{Binding DegatMinimum}"/>
+                <DataGridTextColumn Header="Dégâts max" Binding="{Binding DegatMaximum}"/>
+                <DataGridTextColumn Header="Type d'arme" Binding="{Binding ArmeType}"/>
+                <DataGridTextColumn Header="Temps de rechargement" Binding="{Binding TempsRechargement}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!--Label-->
+        <Label Content="Vaisseau du Joueur :" HorizontalAlignment="Left" Margin="286,42,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="lblNomJoueur" Content="Label" HorizontalAlignment="Left" Margin="426,42,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Nom :" HorizontalAlignment="Left" Margin="218,91,0,0" VerticalAlignment="Top" ClipToBounds="True" Grid.Column="1"/>
+        <Label x:Name="lblVaisseauJoueur" Content="Label" HorizontalAlignment="Left" Margin="298,91,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Structure :" HorizontalAlignment="Left" Margin="218,122,0,0" VerticalAlignment="Top" ClipToBounds="True" Grid.Column="1"/>
+        <Label x:Name="lblStructureVaisseau" Content="Label" HorizontalAlignment="Left" Margin="298,122,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Bouclier :" HorizontalAlignment="Left" Margin="218,153,0,0" VerticalAlignment="Top" ClipToBounds="True" Grid.Column="1"/>
+        <Label x:Name="lblBouclierVaisseau" Content="Label" HorizontalAlignment="Left" Margin="298,153,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="lblBouclierVaisseau_Copy" Content="Dégâts moyens :" HorizontalAlignment="Left" Margin="218,184,0,0" VerticalAlignment="Top" ClipToBounds="True" Grid.Column="1"/>
+        <Label x:Name="lblDegatMoyenVaisseau" Content="Label" HorizontalAlignment="Left" Margin="338,184,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Image x:Name="imgVaisseau" Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="520,91,0,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>
